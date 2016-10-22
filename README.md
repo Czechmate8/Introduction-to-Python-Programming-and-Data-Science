@@ -1,6 +1,6 @@
-# NICO 101 - Introduction to Programming for Big Data
+# OPS413 - Introduction to Programming for Analytics
 
-These materials constitute the textbook for NICO 101 - Introduction to Programming for Big Data.
+These materials constitute the textbook for OPS413 - Introduction to Programming for Analytics.
 This course will teach you the basics of programming in Python, visualizing data, and web-scraping 
 as well as analyzing unstructured text, structured data, and images. 
 
@@ -10,8 +10,7 @@ of this we will discuss the basics of statistical analysis and how that can be a
 
 Any comments, questions, or concerns can be directed to:
 
-* Luis A.N. Amaral <amaral@northwestern.edu>
-* Adam R. Pah <adamrpah@gmail.com>
+* Dominik P.H. Kalisch <dkalisch@stmarys-ca.edu>
 
 ## Software Installation
 
@@ -50,6 +49,8 @@ Navigator program. We have an [introductory video](https://youtu.be/Pul4cqoPLbE)
 launch and use Jupyter notebook.
 
 ## Acknowledgements
+
+This course is based on Northwesterns course __NICO 101 - Introduction to Programming for Big Data__ by _Luis A.N. Amaral <amaral@northwestern.edu>_ and _Adam R. Pah <adamrpah@gmail.com>_.
 
 This course has been built through the efforts of many that have served as teaching assistants and lecturers in the 
 many iterations of the course. We would like to thank (in alphabetical order):
