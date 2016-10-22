@@ -34,8 +34,8 @@ For Mac, you must be using OS X 10.9 or later.
 
 ## Downloading Course Materials
 
-The course materials can be downloaded from the repository's [github page](http://amarallab.github.io/Introduction-to-Python-Programming-and-Data-Science/). 
-Just download the zip file, unzip it onto your Desktop, and rename the directory `NICO-101`.
+The course materials can be downloaded from the repository's [github page](https://github.com/OPS413/Introduction-to-Python-Programming-and-Data-Science). 
+Just download the zip file, unzip it onto your Desktop, and rename the directory `OPS413`.
 
 ## Usage of Course Materials
 
